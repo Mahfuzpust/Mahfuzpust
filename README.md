@@ -6,8 +6,8 @@ A Curious Learner | DotNet Developer | Full-Stack Engineer
 <!-- <a href="https://www.upwork.com/o/profiles/users/~0107ef3405bffbe57e/" target="_blank">
   <img align="center" alt="https://www.upwork.com/o/profiles/users/~0107ef3405bffbe57e/" width="100px" src="img/upwork.png" />
 </a> -->
-<a href="https://www.linkedin.com/in/sk-shahriar-ahmed-raka-862a31193/">
-  <img align="center" alt="https://www.linkedin.com/in/sk-shahriar-ahmed-raka-862a31193/" width="30px" src="img/linkedin.png" />
+<a href="https://www.linkedin.com/in/mahfuz0225/">
+  <img align="center" alt="https://www.linkedin.com/in/mahfuz0225/" width="30px" src="img/linkedin.png" />
 </a>
 <a href="https://www.t.me/Mahfuz0225">
   <img align="center" alt="https://www.t.me/Mahfuz0225" width="30px" src="img/telegram2.png" />
