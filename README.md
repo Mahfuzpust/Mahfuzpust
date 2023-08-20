@@ -1,6 +1,6 @@
-<h1 align="center"><img src="https://github.com/gitsdeepak/gitsdeepak/blob/master/Assets/Hi.gif" width="25px">Hi! Peace Be Upon You , I'm <a href="https://github.com/Mahfuzpust">Sk Shahriar Ahmed Raka</a> 🐬 !</h1>
+<h1 align="center"><img src="https://github.com/gitsdeepak/gitsdeepak/blob/master/Assets/Hi.gif" width="25px">Hi! Peace Be Upon You , I'm <a href="https://github.com/Mahfuzpust">Md. Mahfuzur Rahman</a> 🐬 !</h1>
 <h1 align="center">
-A Curious Learner | Golang Developer | Full-Stack Engineer | Security Researcher
+A Curious Learner | DotNet Developer | Full-Stack Engineer 
 </h1>
 <h1 align="center">
 <!-- <a href="https://www.upwork.com/o/profiles/users/~0107ef3405bffbe57e/" target="_blank">
