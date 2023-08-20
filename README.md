@@ -30,14 +30,11 @@ A Curious Learner | DotNet Developer | Full-Stack Engineer
 
 ### Here are my skills and strengths:
 
-⭐️ Expert in Software Development Using Golang  <br/>
-⭐️ Expert in Gorilla Mux, Gin Framework & Fiber framework (using Golang)<br/>
-⭐️ Exper in  Docker, Kafka, Jenkins <br/>
-⭐️ Expert in database design, development & optimization (PostgreSQL, MySQL, MongoDB, ScyllaDB, Apache Cassandra)<br/>
-✓ Experienceed in ( Grpc, protocol buffer )<br/>
-✓ Experienced in ( WebSocket, Socket.io, WebRTC ) for real-time client and server applications<br/>
-✓ Experienced in ( Tailwindcss, Svelte.js & SvelteKit ) with  TypeScript<br/>
-✓ Good understanding of ( Kubernetes, Bash, PowerShell, Git, Nginx )<br/>
+⭐️ Expert in Software Development Using ASP DotNet  <br/>
+⭐️ Expert in database design, development & optimization ( Microsoft SQL, MySQL, PostgreSQL)<br/>
+✓ Experienced in ( Python , Django )<br/>
+✓ Experienced in ( Html, CSS, JavaScript, Bootstrap )<br/>
+✓ Good understanding of (  Bash, PowerShell, Git )<br/>
 
 <div align="center">
   <a href="https://github.com/Mahfuzpust">
