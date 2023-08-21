@@ -15,7 +15,7 @@ A Curious Learner | DotNet Developer | Full-Stack Engineer
 <!-- <a href="https://stackoverflow.com/users/12216779/sk-shahriar-ahmed-raka">
   <img align="center" alt="https://stackoverflow.com/users/12216779/sk-shahriar-ahmed-raka" width="35px"  src="img/stackoverflow.png" />
 </a> -->
-  <a href="https://twitter.com/shahriarraka7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahriarraka7" height="30" width="40" />
+  <a href="https://twitter.com/MahfuzKhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MahfuzKhan" height="30" width="40" />
   </a>
 <!-- <a href="https://www.kaggle.com/shahriarraka" target="blank"><img  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/shahriarraka" height="30" width="40" />
   </a> -->
