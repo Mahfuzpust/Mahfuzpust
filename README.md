@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/gitsdeepak/gitsdeepak/blob/master/Assets/Hi.gif" width="25px">Hi! Peace Be Upon You , I'm <a href="https://github.com/HSAkash">Hemel Sharker Akash</a> 🐬 !</h1>
+<h1 align="center"><img src="https://github.com/gitsdeepak/gitsdeepak/blob/master/Assets/Hi.gif" width="25px">Hi! Peace Be Upon You , I'm <a href="https://github.com/Mahfuzpust">Md. Mahfuzur Rahman</a> 🐬 !</h1>
 <h1 align="center">
 A Curious Learner | Machine Learing Engineer | Full-Stack Engineer | Security Researcher
 </h1>
@@ -34,13 +34,13 @@ Nginx, Kubernetes )<br/>
 
 
 <div align="center">
-  <a href="https://github.com/HSAkash">
+  <a href="https://github.com/Mahfuzpust">
     <img height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=HSAkash&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+      src="https://github-readme-stats.vercel.app/api?username=Mahfuzpust&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
     <img height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSAkash&layout=compact&langs_count=10&theme=dark" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahfuzpust&layout=compact&langs_count=10&theme=dark" />
 </div>
  <div align="center">
    
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HSAkash&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mahfuzpust&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
   </div>
