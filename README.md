@@ -1,36 +1,40 @@
 <h1 align="center"><img src="https://github.com/gitsdeepak/gitsdeepak/blob/master/Assets/Hi.gif" width="25px">Hi! Peace Be Upon You , I'm <a href="https://github.com/Mahfuzpust">Md. Mahfuzur Rahman</a> 🐬 !</h1>
 <h1 align="center">
-A Curious Learner | Machine Learing Engineer | Full-Stack Engineer | Security Researcher
+A Curious Learner | DotNet Developer | Full-Stack Engineer 
 </h1>
 <h1 align="center">
-<a href="https://www.linkedin.com/in/hemel-akash/">
-  <img align="center" alt="https://www.linkedin.com/in/hemel-akash/" width="30px" src="img/linkedin.png" />
+<!-- <a href="https://www.upwork.com/o/profiles/users/~0107ef3405bffbe57e/" target="_blank">
+  <img align="center" alt="https://www.upwork.com/o/profiles/users/~0107ef3405bffbe57e/" width="100px" src="img/upwork.png" />
+</a> -->
+<a href="https://www.linkedin.com/in/mahfuz0225/">
+  <img align="center" alt="https://www.linkedin.com/in/mahfuz0225/" width="30px" src="img/linkedin.png" />
 </a>
-<a href="https://www.t.me/HemelAkash">
-  <img align="center" alt="https://www.t.me/HemelAkash" width="30px" src="img/telegram2.png" />
+<a href="https://www.t.me/Mahfuz0225">
+  <img align="center" alt="https://www.t.me/Mahfuz0225" width="30px" src="img/telegram2.png" />
 </a>
-<a href="https://stackoverflow.com/users/15684785/hemel-akash?tab=profile">
-  <img align="center" alt="https://stackoverflow.com/users/15684785/hemel-akash" width="35px"  src="img/stackoverflow.png" />
-</a>
-  <a href="https://twitter.com/HSAkash2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahriarraka7" height="30" width="40" />
+<!-- <a href="https://stackoverflow.com/users/12216779/sk-shahriar-ahmed-raka">
+  <img align="center" alt="https://stackoverflow.com/users/12216779/sk-shahriar-ahmed-raka" width="35px"  src="img/stackoverflow.png" />
+</a> -->
+  <a href="https://twitter.com/MahfuzKhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MahfuzKhan" height="30" width="40" />
   </a>
-<a href="https://www.kaggle.com/hsakash" target="blank"><img  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/hsakash" height="30" width="40" />
-  </a>
-
+<!-- <a href="https://www.kaggle.com/shahriarraka" target="blank"><img  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/shahriarraka" height="30" width="40" />
+  </a> -->
+<!-- <a href="https://medium.com/@shahriarraka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@medium" height="30" width="40" />
+  </a> -->
+<!-- <a href="https://leetcode.com/AhmedRaka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/" height="30" width="40" />
+  </a> -->
+<!-- <a href="https://raka.hashnode.dev/">
+  <img align="center" alt="https://raka.hashnode.dev/" width="150px" src="img/hashnode2.png" />
+</a> -->
 </h1>
 
 ### Here are my skills and strengths:
 
-✓ Expert in Machine Learing <br/>
-✓ Expert in TensorFlow, Pytorch, scikit-learn <br/>
-✓ Expert in Django Framework && .Net Core <br/>
-✓ Expert in Robust and Clean server development (using Python) <br/>
-✓ Expert in database design, development, optimization, and migration <br/>
-(PostgreSQL, MySQL, MongoDB , Redis)<br/>
-✓ Experienced in ( WebSocket, WebRTC ) for real-time client and server applications <br/>
-✓ Experienced in ReactJS Framework & Redux Framework and some knowledge in ( TypeScript )<br/>
-✓ Good understanding of ( Docker, Bash, PowerShell, Git,<br/>
-Nginx, Kubernetes )<br/>
+⭐️ Expert in Software Development Using ASP DotNet Core  <br/>
+⭐️ Expert in database design, development & optimization ( Microsoft SQL, MySQL, PostgreSQL)<br/>
+✓ Experienced in ( Python , Django )<br/>
+✓ Experienced in ( Html, CSS, JavaScript, Bootstrap )<br/>
+✓ Good understanding of (  Bash, PowerShell, Git )<br/>
 
 
 <div align="center">
