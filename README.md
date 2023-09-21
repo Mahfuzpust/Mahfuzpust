@@ -28,7 +28,7 @@ A Curious Learner | DotNet Developer | Full-Stack Engineer
 </a> -->
 </h1>
 
-### Here are my skills and strengths:
+### Here are my skills and strengths: 
 
 ⭐️ Expert in Software Development Using .Net MVC  <br/>
 ⭐️ Expert in database design, development & optimization ( Microsoft SQL, MySQL, PostgreSQL)<br/>
