@@ -1,4 +1,6 @@
-<h1 align="center"><img src="https://github.com/gitsdeepak/gitsdeepak/blob/master/Assets/Hi.gif" width="25px">Hi! I'm <a href="https://github.com/Mahfuzpust"> Md. Mahfuzur Rahman</a> !</h1>
+<h2 align="center" color="white" ><img src="https://github.com/gitsdeepak/gitsdeepak/blob/master/Assets/Hi.gif" width="25px" /> 
+Hi! I'm  Md. Mahfuzur Rahman</a>
+</h2>
 <h1 align="center">
 A Curious Learner | DotNet Developer | Full-Stack Engineer 
 </h1>
